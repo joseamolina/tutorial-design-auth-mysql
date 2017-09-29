@@ -1,0 +1,12 @@
+{
+  "name": "tutorial-design-auth-mysql",
+  "version": "1.0.0",
+  "description": "Tutorial with descrp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "JoseAngel Molina",
+  "license": "ISC"
+}
